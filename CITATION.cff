@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: Refusing Committee
+version: 0.1.0
+date-released: 2026-10-21
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: https://orcid.org/0009-0000-9778-5374
+    affiliation: Spark AI NLP, Fredericton, New Brunswick, Canada
+  - family-names: Lee
+    given-names: Mun Seok
+license: AGPL-3.0-only
+repository-code: https://github.com/sparkainlp-x
+abstract: >-
+  A heterogeneous committee of holographic membranes at different
+  coarse-graining resolutions, each with a Youden-calibrated
+  refusal gate; only confident members vote, and unanimous refusal
+  is reported as its own outcome. A measured negative result:
+  per-member refusal does not fix the plain committee's
+  underperformance versus the best single member -- the gate
+  filters low-confidence votes while the committee's errors are
+  high-confidence, and miscalibrated gates collapse accuracy
+  under distribution shift.
+keywords:
+  - holographic-memory
+  - ensemble
+  - refusal
+  - selective-prediction
+  - negative-result
